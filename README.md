@@ -1,4 +1,4 @@
-# Internet of Things (COEN 243) (Graduage Level)
+# Internet of Things (COEN 243) (Graduate Level)
 
 SIOTLAB | Santa Clara University’s Internet of Things Research Lab
 

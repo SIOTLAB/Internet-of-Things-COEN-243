@@ -1,7 +1,8 @@
-# Internet-of-Things-COEN-243
-Sample codes and projects for the Internet of Things (COEN 243) course at Santa Clara University
+# Internet of Things (COEN 243) (Graduage Level)
 
 SIOTLAB | Santa Clara University’s Internet of Things Research Lab
+
+Sample codes and projects for the Internet of Things (COEN 243) course at Santa Clara University
 
 Used platforms:
 CYW943907AEVAL1F

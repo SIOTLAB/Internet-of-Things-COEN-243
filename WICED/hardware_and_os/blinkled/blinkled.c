@@ -25,12 +25,14 @@ void application_start( )
 
     while ( 1 )
     {
-		/* LED off */
+		/* LED ON (Note that the LEDs are active low) */
     	wiced_gpio_output_low( WICED_LED1 );
         wiced_gpio_output_low( WICED_LED2 );
         wiced_gpio_output_low( WICED_SH_LED1 );
     	wiced_rtos_delay_milliseconds( 250 );
-		/* LED on */
+        
+        
+		/* LED OFF */
     	wiced_gpio_output_high( WICED_LED1 );
         wiced_gpio_output_high( WICED_LED2 );
         wiced_gpio_output_high( WICED_SH_LED1 );
